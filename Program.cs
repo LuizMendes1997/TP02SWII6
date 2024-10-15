@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+//LUIZ MENDES 3012123
+
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using TP02.Data;
 var builder = WebApplication.CreateBuilder(args);
